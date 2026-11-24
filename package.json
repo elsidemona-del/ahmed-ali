@@ -1,0 +1,13 @@
+{
+  "name": "ahmed-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot persona Ahmed powered by Gemini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
